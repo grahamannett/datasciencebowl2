@@ -1,0 +1,1183 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prop",
+				"property	New Property"
+			],
+			[
+				"vid",
+				"videoId	statement"
+			],
+			[
+				"nvid",
+				"nvidia-docker"
+			],
+			[
+				"train",
+				"train_model	function"
+			],
+			[
+				"build",
+				"build_model	function"
+			],
+			[
+				"tota",
+				"total_text	statement"
+			],
+			[
+				"neur",
+				"neural_net	class"
+			],
+			[
+				"youtub",
+				"youtube"
+			],
+			[
+				"process",
+				"process_text	function"
+			],
+			[
+				"buil",
+				"build_model	function"
+			],
+			[
+				"tra",
+				"train_model	function"
+			],
+			[
+				"audi",
+				"audiototext	module"
+			],
+			[
+				"p",
+				"pysrt	module"
+			],
+			[
+				"subs",
+				"subs_url	statement"
+			],
+			[
+				"audio",
+				"audio_source	class"
+			],
+			[
+				"time",
+				"timestart"
+			],
+			[
+				"write",
+				"write	function"
+			],
+			[
+				"trimme",
+				"trimmed_location	statement"
+			],
+			[
+				"wri",
+				"write	function"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"trim",
+				"trimmed_location	statement"
+			],
+			[
+				"speech",
+				"speech_recognition"
+			],
+			[
+				"trimm",
+				"trimmed_location	statement"
+			],
+			[
+				"con",
+				"convert_audio_to_text_	function"
+			],
+			[
+				"downloa",
+				"download_as_audio	function"
+			],
+			[
+				"is",
+				"isfile	function"
+			],
+			[
+				"key",
+				"key	param"
+			],
+			[
+				"aud",
+				"audio_source	class"
+			],
+			[
+				"rcog",
+				"recognizer"
+			],
+			[
+				"spl",
+				"split_to_mono	function"
+			],
+			[
+				"trimmed",
+				"trimmedlocation"
+			],
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"from",
+				"from_file	function"
+			],
+			[
+				"get",
+				"getbestaudio	function"
+			],
+			[
+				"s",
+				"streams	function"
+			],
+			[
+				"op",
+				"optimizer_type"
+			],
+			[
+				"read",
+				"readText	function"
+			],
+			[
+				"text",
+				"textFile	statement"
+			],
+			[
+				"Gen",
+				"GenTextForCall	class"
+			],
+			[
+				"proce",
+				"processImage	function"
+			],
+			[
+				"li",
+				"listdir	function"
+			],
+			[
+				"trai",
+				"train_cols"
+			],
+			[
+				"__",
+				"__file__	instance"
+			],
+			[
+				"Log",
+				"log	class"
+			],
+			[
+				"predic",
+				"predict_proba	function"
+			],
+			[
+				"Mult",
+				"MultilayerPerceptronClassifier	class"
+			],
+			[
+				"rand",
+				"random_state	param"
+			],
+			[
+				"prev",
+				"previous_emails	statement"
+			],
+			[
+				"pref",
+				"preferred_email	function"
+			],
+			[
+				"pre",
+				"previous_emails	statement"
+			],
+			[
+				"remove",
+				"remove_tag	function"
+			],
+			[
+				"is_",
+				"is_valid	statement"
+			],
+			[
+				"pro",
+				"property	New Property"
+			],
+			[
+				"pr",
+				"property	New Property"
+			],
+			[
+				"co",
+				"countoverlappingdistinct"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Dockerfile.Dockerfile",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Python",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Python",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Python",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "status",
+		"selected_items":
+		[
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"git statu",
+				"git: status"
+			],
+			[
+				"git ",
+				"git: generate changelog"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"git push",
+				"git: push"
+			],
+			[
+				"statu",
+				"git: status"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"themr favo",
+				"Themr: List favorite themes"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"ignore",
+				"git: ignore current file"
+			],
+			[
+				"git init",
+				"git: init"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"pull",
+				"git: pull"
+			],
+			[
+				"p",
+				"Package Control: Add Channel"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"git bra",
+				"git: branch"
+			],
+			[
+				"gitif",
+				"git: ignore current file"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"list",
+				"Themr: List themes"
+			],
+			[
+				"lis",
+				"Themr: List themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"Themr: List themes"
+			],
+			[
+				"list ",
+				"Themr: List themes"
+			],
+			[
+				"thmr",
+				"Themr: List themes"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"lint",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"previiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdon",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live relad",
+				"LiveReload: Help"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"liverello",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Self test"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdonw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"omnimark",
+				"Preferences: OmniMarkupPreviewer Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"readm",
+				"GoSublime: Read Me"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"github",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Compare Against Origin"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"disable ",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"remote",
+				"Remote: Host Session"
+			],
+			[
+				"vagrant",
+				"Anaconda: Vagrant Reload"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"diff",
+				"git: diff current file inline"
+			],
+			[
+				"com",
+				"git: commit"
+			],
+			[
+				"git gutter",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"gutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"dashdoc",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"dash",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"disable li",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"build",
+				"Build With: Anaconda Python Builder"
+			],
+			[
+				"r box ",
+				"R-Box Application"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"GitSavvy: help"
+			],
+			[
+				"gitsa",
+				"git: status"
+			],
+			[
+				"vagran",
+				"Anaconda: Vagrant Up"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import sys",
+			"import pydub",
+			"ls",
+			"clear",
+			"git difftool --tool-help",
+			"Y",
+			"sys.getdefaultencoding()",
+			"import sys",
+			"sys.getdefaultencoding()",
+			"import os; os.environ",
+			"import numpy as np",
+			"ls",
+			"imfile:/Users/graham/code/migos",
+			"server.py",
+			"python server.py",
+			"python",
+			"pyth",
+			"3+ 34",
+			"+ 34",
+			"2",
+			"ls",
+			"vagrant up",
+			"vagrant enable",
+			"vagrant ssh",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/graham/code/nndocker/wercker.yml",
+		"/Users/graham/code/nndocker/webscraper/Dockerfile",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/graham/code/nndocker/webscraper/requirements.txt",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/GitSavvy.sublime-settings",
+		"/Users/graham/code/nndocker/docker-compose.yml",
+		"/Users/graham/code/nndocker/webscraper/webscraper/scrapetube.py",
+		"/Users/graham/code/nndocker/webscraper/config",
+		"/Users/graham/code/nndocker/neuralnet/requirements.txt",
+		"/Users/graham/code/nndocker/neuralnet/Dockerfile",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Installed Packages/GitSavvy.sublime-package",
+		"/Users/graham/code/nndocker/neuralnet/nn.py",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/graham/code/nndocker/nndocker.sublime-workspace",
+		"/Users/graham/code/nndocker/nginx/Dockerfile",
+		"/Users/graham/code/nndocker/nginx/site",
+		"/Users/graham/code/nndocker/setup.sh",
+		"/Users/graham/code/nndocker/webscraper/webscraper/relatedvids.py.bak",
+		"/Users/graham/code/nndocker/webscraper/webscraper/relatedvids.py",
+		"/Users/graham/code/nndocker/webscraper/webscraper/main.py",
+		"/Users/graham/code/nndocker/webscraper/credentials",
+		"/Users/graham/.ssh/id_rsa.pub",
+		"/Users/graham/code/nndocker/old/oldwebscraper.Dockerfile",
+		"/Users/graham/code/nndocker/neuralnet/test.py",
+		"/Users/graham/code/nndocker/webscraper/webscraper/ratelimit.py",
+		"/Users/graham/code/nndocker/nngpu/Dockerfile",
+		"/Users/graham/code/nndocker/nvidia/nvidia-docker",
+		"/Users/graham/code/nndocker/ModelDocker/test.py",
+		"/Users/graham/code/niche/docker/setupSOFTLAYER.sh",
+		"/Users/graham/code/niche/docker/ModelDocker/Dockerfile",
+		"/Users/graham/code/niche/audiototext.py",
+		"/Users/graham/code/niche/example.py",
+		"/Users/graham/code/niche/main.py",
+		"/Users/graham/code/dotfiles/Preferences.sublime-settings",
+		"/Users/graham/code/niche/graph2.png",
+		"/Users/graham/code/niche/graph1.png",
+		"/Users/graham/code/niche/other/karpathy.py",
+		"/Users/graham/code/niche/other/url_test",
+		"/Users/graham/code/niche/tttt.txt",
+		"/Users/graham/code/niche/requirements.txt",
+		"/Users/graham/code/niche/other/intended dockerfile or vagrant setup",
+		"/Users/graham/code/niche/other/url_list",
+		"/Users/graham/code/niche/other/urllist",
+		"/Users/graham/code/niche/123.png",
+		"/Users/graham/code/niche/models/weights.hdf5",
+		"/Users/graham/code/niche/niche.sublime-project",
+		"/Users/graham/code/niche/fornn.py",
+		"/Users/graham/code/niche/scrapy.py",
+		"/Users/graham/Desktop/GrahamAnnett.py",
+		"/Users/graham/Desktop/kerasgraphing.py",
+		"/Users/graham/code/niche/testing.py",
+		"/Users/graham/code/niche/karpathy.py",
+		"/Users/graham/code/niche/examplesession.py",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/keras/models.py",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/keras/callbacks.py",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/keras/layers/core.py",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/youtube_dl/YoutubeDL.py",
+		"/Users/graham/code/niche/other/urllist2",
+		"/Users/graham/code/niche/50epochs.py",
+		"/Users/graham/code/niche/final-texts/text.txt",
+		"/Users/graham/code/niche/final-texts/longtext.txt",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/keras/activations.py",
+		"/Users/graham/code/niche/url_list",
+		"/Users/graham/Desktop/flights-3m.json",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/keras/layers/recurrent.py",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/graham/code/niche/README.md",
+		"/Users/graham/code/niche/index.html",
+		"/Users/graham/code/niche/test.html",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/GoSublime/README.md",
+		"/Users/graham/.vim/colors/personal.vim",
+		"/Users/graham/code/niche/credentials",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/graham/code/niche/alt.py",
+		"/Users/graham/code/niche/tests/test_audiototext.py",
+		"/Users/graham/code/niche/tests/test_sample.py",
+		"/Users/graham/code/vm/figtest/app.py",
+		"/Users/graham/.bash_profile",
+		"/Users/graham/code/niche/youtube-dl-tests/youtube-dl, still downloads video or audio python file",
+		"/Users/graham/code/niche/tests.py",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/speech_recognition/__init__.py",
+		"/Users/graham/.virtualenvs/niche/lib/python3.4/site-packages/pafy/pafy.py",
+		"/Users/graham/code/niche/intended dockerfile or vagrant setup",
+		"/Users/graham/.vimrc",
+		"/Users/graham/.tmux.conf",
+		"/Users/graham/code/niche/texts/text1.txt",
+		"/Users/graham/code/recursionpharma/recursion.sublime-project",
+		"/Users/graham/code/recursionpharma/alt.py",
+		"/Users/graham/code/deepemoji/original.py",
+		"/Users/graham/Library/Application Support/Alfred 2/Workflow Data/jc-units/config.json",
+		"/Users/graham/code/narvar/feedback_data/feedback.csv",
+		"/usr/local/bin/virtualenv",
+		"/Users/graham/code/deepemoji/deepemoji.sublime-project",
+		"/Users/graham/code/Kaggle/restaurantrevenue/Main.ipynb",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/graham/.virtualenvs/restaurantrevenue/lib/python2.7/site-packages/sklearn/ensemble/forest.py",
+		"/Users/graham/code/Kaggle/restaurantrevenue/restaurantrevenue.sublime-project",
+		"/Users/graham/code/Kaggle/restaurantrevenue/test.csv",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/DashDoc.sublime-settings",
+		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/graham/code/Kaggle/clas/kaggle.sublime-project",
+		"/Users/graham/code/Kaggle/clas/xgboost_benchmark.R",
+		"/Users/graham/code/Kaggle/clas/graphlabbullshit.py",
+		"/Users/graham/code/Kaggle/clas/submission123.csv",
+		"/Users/graham/code/Kaggle/clas/ottobenchmark.py",
+		"/Users/graham/code/Kaggle/clas/benchmark.py",
+		"/Users/graham/Downloads/btb_pls.py",
+		"/Users/graham/Downloads/Experiment created on 3_17_2015 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1387 - Results dataset.csv",
+		"/Users/graham/Downloads/Experiment created on 3_17_2015 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1387 - Results dataset (2).csv",
+		"/Users/graham/Downloads/Experiment created on 3_17_2015 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1387 - Results dataset (1).csv",
+		"/Users/graham/code/Kaggle/clas/test.csv",
+		"/Users/graham/code/nodeio/toeric/tests.py",
+		"/Users/graham/code/nodeio/toeric/main2.py",
+		"/Users/graham/code/nodeio/main.py",
+		"/Users/graham/code/nodeio/toeric/test.py",
+		"/Users/graham/code/nodeio/tests.py",
+		"/Users/graham/code/nodeio/toeric/main.py",
+		"/Users/graham/code/jobscrapper.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"url_list",
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"tutorial",
+			"get_fil",
+			"split",
+			"#",
+			"scrappinghub",
+			"total",
+			"fit",
+			"self.tit",
+			"instance_text_",
+			"pydub",
+			"pafy",
+			"for",
+			"isfile",
+			"callbacks",
+			"callbacks(",
+			"callbacks",
+			"compile",
+			"print",
+			"extract_info",
+			"https://www.youtube.com/watch?v=Cc-bcUJGLNU",
+			" '",
+			"xrange",
+			"range",
+			"print",
+			"print '",
+			"open(",
+			"nb_ep",
+			"nb_epoch",
+			"softmax",
+			"LSTM",
+			"indices_",
+			"subtitles",
+			"'id'",
+			"id",
+			"automatic_ca",
+			"cap",
+			"subtitle",
+			"'-'",
+			"load_m4",
+			"niche",
+			"pil",
+			"utils",
+			"processI",
+			"dataset2",
+			"moni",
+			"train_",
+			"train",
+			"midiread",
+			"dataset",
+			"glob",
+			"glob.",
+			"train(",
+			"__file__",
+			"t = ",
+			"analyseImage",
+			"v_t",
+			"generate_function",
+			"generate_function()",
+			"generate",
+			"train_function",
+			"generate_function",
+			"midiwrite",
+			"'",
+			"u'",
+			"elem",
+			"label",
+			"prepro",
+			"lbl",
+			"05",
+			"self",
+			"schm",
+			"url_to_follow",
+			"\"",
+			"install"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"range",
+			"print('",
+			"",
+			"url2",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Dockerfile.Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/graham/code/Kaggle/datasciencebowl/Dockerfile.Dockerfile",
+							"syntax": "Packages/Materialize/Langs/DockerFile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 102.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 106.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 102.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 102.0
+	},
+	"output.anaconda_documentation":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.markdown":
+	{
+		"height": 102.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "dsbowl2.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wint",
+				"~/code/Kaggle/winton/winton.sublime-project"
+			],
+			[
+				"",
+				"~/code/nndocker/nndocker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
