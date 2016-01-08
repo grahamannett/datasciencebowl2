@@ -20,4 +20,3 @@ RUN pip3 install -r requirements.txt
 
 RUN cd ~ && echo "[global]\ndevice=gpu0\nfloatX=float32\n\n[cuda]\nroot=/usr/local/cuda" > .theanorc
 
-VOLUME data/
