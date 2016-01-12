@@ -1,3 +1,4 @@
 theano
 keras
 pydicom
+jupyter[all]
