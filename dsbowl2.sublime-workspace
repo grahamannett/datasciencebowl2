@@ -227,34 +227,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Dockerfile",
-			"settings":
-			{
-				"buffer_size": 561,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "\n  BRANCH:  On branch `master`.\n  ROOT:    ~/code/Kaggle/datasciencebowl\n  HEAD:    8c8ec82 initial commit\n\n    Your working directory is clean.\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool for conflict\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [P] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][d] discard stash\n  [I] ignore pattern\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [r]         refresh status\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n",
-			"settings":
-			{
-				"buffer_size": 1621,
-				"line_ending": "Unix",
-				"name": "STATUS: datasciencebowl",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "theano\nkeras\npydicom",
-			"settings":
-			{
-				"buffer_size": 20,
-				"line_ending": "Unix",
-				"name": "theano"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -372,15 +344,15 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "",
+		"last_filter": "status",
 		"selected_items":
 		[
 			[
-				"git statu",
+				"status",
 				"git: status"
 			],
 			[
-				"status",
+				"git statu",
 				"git: status"
 			],
 			[
@@ -791,12 +763,9 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/graham/code/Kaggle/datasciencebowl"
-	],
 	"file_history":
 	[
+		"/Users/graham/code/Kaggle/datasciencebowl/Dockerfile",
 		"/Users/graham/code/nndocker/wercker.yml",
 		"/Users/graham/code/nndocker/webscraper/Dockerfile",
 		"/Users/graham/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -923,8 +892,7 @@
 		"/Users/graham/code/nodeio/main.py",
 		"/Users/graham/code/nodeio/toeric/test.py",
 		"/Users/graham/code/nodeio/tests.py",
-		"/Users/graham/code/nodeio/toeric/main.py",
-		"/Users/graham/code/jobscrapper.py"
+		"/Users/graham/code/nodeio/toeric/main.py"
 	],
 	"find":
 	{
@@ -1040,113 +1008,11 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"path": "/Users/graham/code/Kaggle/datasciencebowl"
-		}
-	],
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Dockerfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								561,
-								561
-							]
-						],
-						"settings":
-						{
-							"git_savvy.file_path": "/Users/graham/code/Kaggle/datasciencebowl/Dockerfile.Dockerfile",
-							"git_savvy.repo_path": "/Users/graham/code/Kaggle/datasciencebowl",
-							"syntax": "Packages/Materialize/Langs/DockerFile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1621,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								149,
-								149
-							]
-						],
-						"settings":
-						{
-							"__vi_external_disable": true,
-							"default_dir": "/Users/graham/code/Kaggle/datasciencebowl",
-							"git_savvy.file_path": null,
-							"git_savvy.interface": "status",
-							"git_savvy.repo_path": "/Users/graham/code/Kaggle/datasciencebowl",
-							"git_savvy.status_view": true,
-							"git_savvy.tabbable": true,
-							"syntax": "Packages/GitSavvy/syntax/status.tmLanguage",
-							"word_wrap": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20,
-								20
-							]
-						],
-						"settings":
-						{
-							"auto_name": "theano",
-							"default_dir": "/Users/graham/code/Kaggle/datasciencebowl",
-							"git_savvy.file_path": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1222,7 +1088,7 @@
 		"height": 126.0
 	},
 	"pinned_build_system": "",
-	"project": "",
+	"project": "dsbowl2.sublime-project",
 	"replace":
 	{
 		"height": 46.0
