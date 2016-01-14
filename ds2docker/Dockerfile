@@ -2,7 +2,7 @@ FROM grahama/deep:latest
 
 MAINTAINER grahama
 
-RUN apt-get update && apt-get install -y build-essential git libatlas-base-dev libopencv-dev python-skimage
+RUN apt-get update && apt-get install -y build-essential git libatlas-base-dev libopencv-dev python3-skimage
 
 ADD requirements.txt .
 
