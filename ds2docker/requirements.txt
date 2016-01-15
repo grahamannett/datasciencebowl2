@@ -1,6 +1,6 @@
 theano
 keras
 pydicom
-jupyter[all]
+jupyter
 dill
 joblib
