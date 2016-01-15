@@ -1,4 +1,4 @@
-FROM grahama/deep:latest
+FROM grahama/deep:base
 
 MAINTAINER grahama
 

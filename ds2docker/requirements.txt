@@ -4,4 +4,3 @@ pydicom
 jupyter[all]
 dill
 joblib
-scikit-image
