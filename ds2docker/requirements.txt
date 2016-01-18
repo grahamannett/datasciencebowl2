@@ -1,5 +1,3 @@
-theano
-keras
 pydicom
 jupyter
 dill
